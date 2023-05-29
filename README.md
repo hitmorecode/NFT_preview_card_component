@@ -29,8 +29,11 @@ Users should be able to:
 
 ![](./screenshots/screenshot_01.jpg)
 ![](./screenshots/screenshot_02.jpg)
+- Desktop
 ![](./screenshots/screenshot_03.jpg)
+- Tablet
 ![](./screenshots/screenshot_04.jpg)
+- Mobile
 
 
 ### Links
