@@ -28,9 +28,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/screenshot_01.jpg)
-![Desktop](./screenshots/screenshot_02.jpg) - Desktop
-![Tablet](./screenshots/screenshot_03.jpg) - Tablet
-![Mobile](./screenshots/screenshot_04.jpg) - Mobile
+[Desktop](Desktop)
+![](./screenshots/screenshot_02.jpg)
+![](./screenshots/screenshot_03.jpg)
+![](./screenshots/screenshot_04.jpg)
 
 
 ### Links
