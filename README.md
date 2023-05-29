@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/screenshot.jpg)
+![](./screenshots/screenshot_01.jpg)
 ![](./screenshots/screenshot_02.jpg)
-![](./screenshots/screenshot03.jpg)
-![](./screenshots/screenshot04.jpg)
+![](./screenshots/screenshot_03.jpg)
+![](./screenshots/screenshot_04.jpg)
 
 
 ### Links
