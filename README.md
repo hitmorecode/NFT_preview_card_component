@@ -29,11 +29,13 @@ Users should be able to:
 
 ![](./screenshots/screenshot_01.jpg)
 
-- Desktop
+Desktop
 ![](./screenshots/screenshot_02.jpg)
 
-- Tablet
+Tablet
 ![](./screenshots/screenshot_03.jpg)
+
+Mobile
 ![](./screenshots/screenshot_04.jpg)
 
 
