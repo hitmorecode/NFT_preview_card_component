@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.hero {
+  background-color: #0C1729;
+  height: 100vh;
+  padding: 50px 0;
+  /* display: flex; */
+  /* align-items: center; */
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* NFT CARD */
+.nft-card {
+  position: relative;
+  background-color: #15273F;
+  width: 340px;
+  border-radius: 20px;
+  padding: 20px;
+  color: #89A2C1;
+  margin: 10px 0;
+}
+
+.nft-img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.on-hover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  background-color: hsla(179, 100%, 48%, 0.25);
+  transition: all 350ms;
+}
+
+.on-hover:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.nft-id {
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin: 20px 0;
+}
+
+.nft-description {
+  font-size: 0.9rem;
+  line-height: 1.3rem;
+  margin-bottom: 20px;
+}
+
+.price-and-timer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.token {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  color: #00F7F4
+}
+
+.price {
+  margin-left: 7px;
+}
+
+.timer {
+  display: flex;
+}
+
+.time-left {
+  margin-left: 7px;
+}
+
+hr {
+  border-bottom: none;
+  color: #89A2C1;
+}
+
+.creator {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.creator-avatar {
+  width: 36px;
+  height: 36px;
+  margin-right: 15px;
+}
+
+.creator-description {
+  font-size: 0.9rem;
+}
+
+.creator-text-color {
+  color: #fff;
+  margin-left: 5px;
+}
+
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 1600px) {
+  .hero {
+    height: 100%;
+    padding: 50px 0;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  /* .hero {
+    height: 100%;
+    padding: 50px 0;
+  }
+   */
+  .flex-container {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 384px) {
+  .container {
+    width: 100%;
+  }
+}
