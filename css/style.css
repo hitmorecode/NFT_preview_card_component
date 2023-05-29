@@ -14,8 +14,6 @@ body {
   background-color: #0C1729;
   height: 100vh;
   padding: 50px 0;
-  /* display: flex; */
-  /* align-items: center; */
 }
 
 .container {
@@ -89,9 +87,8 @@ body {
 
 .token {
   display: flex;
-  /* justify-content: center; */
   align-items: center;
-  color: #00F7F4
+  color: #00F7F4;
 }
 
 .price {
@@ -142,11 +139,6 @@ hr {
 }
 
 @media only screen and (max-width: 800px) {
-  /* .hero {
-    height: 100%;
-    padding: 50px 0;
-  }
-   */
   .flex-container {
     justify-content: center;
     align-items: center;
