@@ -28,10 +28,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/screenshot_01.jpg)
-/* test */
 
 - Desktop
 ![](./screenshots/screenshot_02.jpg)
+
+- Tablet
 ![](./screenshots/screenshot_03.jpg)
 ![](./screenshots/screenshot_04.jpg)
 
