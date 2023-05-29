@@ -28,6 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/screenshot_01.jpg)
+![]()
 [Desktop](Desktop)
 ![](./screenshots/screenshot_02.jpg)
 ![](./screenshots/screenshot_03.jpg)
