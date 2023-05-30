@@ -53,11 +53,12 @@ Users should be able to:
 
 ### What I learned
 
-
+This challenge was a good way to practice using flexbox and position.
+Using flexbox and position is very useful once you understand the basics of these concepts.
 
 ### Continued development
 
-Using flexbox was not so easy to start with, since I'm still new with this concept. I'll be focusing on this subject for the comming challenges.
+Using flexbox was not so easy to start with, since I'm still new with this concept. I'll be focusing on this subject for the coming challenges.
 
 
 ### Useful resources
@@ -68,5 +69,4 @@ Using flexbox was not so easy to start with, since I'm still new with this conce
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@hitmorecode](https://www.frontendmentor.io/profile/hitmorecode)
