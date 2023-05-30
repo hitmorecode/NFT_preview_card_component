@@ -60,6 +60,7 @@ Using flexbox and position is very useful once you understand the basics of thes
 
 Using flexbox and position was not so easy to start with, since I'm still new with these concepts. I'll be focusing on these subjects for the coming challenges.
 
+The challenge was to create a NFT card, but I added three more cards to start practicing responsiveness.
 
 ### Useful resources
 
