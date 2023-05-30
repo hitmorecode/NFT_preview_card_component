@@ -58,7 +58,7 @@ Using flexbox and position is very useful once you understand the basics of thes
 
 ### Continued development
 
-Using flexbox was not so easy to start with, since I'm still new with this concept. I'll be focusing on this subject for the coming challenges.
+Using flexbox and position was not so easy to start with, since I'm still new with these concepts. I'll be focusing on these subjects for the coming challenges.
 
 
 ### Useful resources
