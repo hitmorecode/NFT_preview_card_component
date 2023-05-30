@@ -66,7 +66,7 @@ The challenge was to create a NFT card, but I added three more cards to start pr
 
 - [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me getting started with flexbox. I'd recommend it to anyone still learning this concept.
 - [Colt Steele - Flexbox tutorial](https://www.youtube.com/watch?v=qZv-rNx0jEA) - This video helped me understand flexbox. If you are struggling with flexbox like I did, I recommend this video.
-- [Web Dev Simplefied - CSS position](https://www.youtube.com/watch?v=jx5jmI0UlXU) - This is a very easy to learn how position works.
+- [Web Dev Simplefied - CSS position](https://www.youtube.com/watch?v=jx5jmI0UlXU) - This tutorial explains how position works.
 
 ## Author
 
